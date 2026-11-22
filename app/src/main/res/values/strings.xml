@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoyaleAI</string>
+    <string name="accessibility_service_description">Permite que RoyaleAI ejecute toques y arrastres autónomos en pantalla para jugar Clash Royale directamente desde el teléfono sin PC.</string>
+    <string name="accessibility_service_label">RoyaleAI Control Táctil</string>
+    <string name="notification_channel_name">Motor Autónomo RoyaleAI</string>
+    <string name="notification_channel_desc">Mantiene activa la visión de pantalla y el cerebro táctico de RoyaleAI en segundo plano.</string>
+    <string name="notification_title">RoyaleAI activo en el teléfono</string>
+    <string name="notification_text">Analizando arena en tiempo real y ejecutando jugadas tácticas.</string>
+</resources>

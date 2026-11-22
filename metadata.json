@@ -1,0 +1,6 @@
+{
+  "name": "RoyaleAI",
+  "description": "Agente táctico autónomo con IA y visión en tiempo real para controlar y jugar Clash Royale directamente desde el teléfono sin PC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
